@@ -6,7 +6,7 @@ import os
 from commands import General
 from events import Events
 import asyncio
-'MTUxMTM5MzU5MjczODg0NDc2Mg.G9QFPM.eg3TzNArSykch9cSqP5TKhewwmqsbd7RwbgTgk'
+
 ##
 
 def configure ():
